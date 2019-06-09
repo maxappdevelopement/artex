@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877878677710",
+    "firebase_url": "https://artex-217aa.firebaseio.com",
+    "project_id": "artex-217aa",
+    "storage_bucket": "artex-217aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877878677710:android:73e1801a091e027c",
+        "android_client_info": {
+          "package_name": "max.appdevelopement.artex.artex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877878677710-4vcnlpsvd6bj4thc92u3rn6ljsafvb7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFHeUaezGQmA30kyLvEnFj16za9PMhoCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877878677710-4vcnlpsvd6bj4thc92u3rn6ljsafvb7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
